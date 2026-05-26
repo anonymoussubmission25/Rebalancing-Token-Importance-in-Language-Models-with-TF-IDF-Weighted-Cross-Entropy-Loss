@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+evaluate
+tqdm
+peft
+bitsandbytes
+accelerate
+numpy
+rouge_score
+bert_score
+sentencepiece
